@@ -7,4 +7,4 @@ How to extract voice over audio from Witcher 3 game
 5. The extracted files are in a proprietary format (AudioKinetic Wwise) - these need to be converted further.
 6. Run the 'Convert to WAV and OGG' batch file.
 7. 2 folders will be created Wav and Ogg - both containing their respective formats.
-8. Use Witcher 3 dialogue excel file for finding the dialogue you want, use the ID number to finding the sound clip. In case if you don't have excel - extract the text files from 'w3dialog'
+8. Use Witcher 3 dialogue excel file for finding the dialogue you want, use the ID number to finding the sound clip. In case if you don't have excel - extract the text files from 'w3dialog'.
