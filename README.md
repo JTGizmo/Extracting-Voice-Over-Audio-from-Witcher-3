@@ -1,5 +1,7 @@
 # Extracting-Voice-Over-Audio-from-Witcher-3
 How to extract voice over audio from Witcher 3 game
+Download w3utils - proper rar and extract it.
+
 1. Open 'Batch Extraction' file with notepad or notepad++
 2. Change the *set W3DIR='Your Witcher 3 install directory'* to where your Witcher 3 is installed
 3. Change the *set W3Lang='use the language you wish to extract i.e. en is for english'*
